@@ -1,0 +1,61 @@
+store_id,channel,region
+S001,Big-box,West
+S002,Big-box,South
+S003,Big-box,West
+S004,Big-box,Northeast
+S005,Big-box,West
+S006,Big-box,Northeast
+S007,Big-box,Northeast
+S008,Big-box,Midwest
+S009,Big-box,South
+S010,Big-box,Midwest
+S011,Big-box,South
+S012,Big-box,South
+S013,School & office,South
+S014,School & office,South
+S015,School & office,West
+S016,School & office,Northeast
+S017,School & office,Midwest
+S018,School & office,Northeast
+S019,School & office,West
+S020,School & office,West
+S021,School & office,Midwest
+S022,School & office,Midwest
+S023,School & office,West
+S024,School & office,South
+S025,Grocery,Midwest
+S026,Grocery,Northeast
+S027,Grocery,South
+S028,Grocery,Midwest
+S029,Grocery,West
+S030,Grocery,West
+S031,Grocery,Midwest
+S032,Grocery,Northeast
+S033,Grocery,South
+S034,Grocery,West
+S035,Grocery,Northeast
+S036,Grocery,Northeast
+S037,Grocery,Northeast
+S038,Grocery,Northeast
+S039,Grocery,South
+S040,Grocery,West
+S041,Grocery,Midwest
+S042,Grocery,South
+S043,Grocery,South
+S044,Grocery,Midwest
+S045,Drugstore,West
+S046,Drugstore,Northeast
+S047,Drugstore,Northeast
+S048,Drugstore,South
+S049,Drugstore,Northeast
+S050,Drugstore,South
+S051,Drugstore,Midwest
+S052,Drugstore,West
+S053,Drugstore,Midwest
+S054,Drugstore,Northeast
+S055,Drugstore,Northeast
+S056,Drugstore,South
+S057,Drugstore,West
+S058,Drugstore,South
+S059,Drugstore,West
+S060,Drugstore,Midwest

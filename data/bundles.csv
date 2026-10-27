@@ -1,0 +1,9 @@
+bundle_id,name,crayons,theme,list_price,list_price_2025,wholesale_price,unit_cost,launch_week
+B01,Classic 8,8,primary,1.99,2.09,1.05,0.38,2024-01-01
+B02,Classic 24,24,primary,3.49,3.69,1.85,0.8,2024-01-01
+B03,Pastel Garden 16,16,themed,2.99,2.99,1.6,0.62,2024-01-01
+B04,Ocean & Sky 16,16,themed,2.99,2.99,1.6,0.62,2024-01-01
+B05,Neon Pop 12,12,novelty,2.79,2.79,1.45,0.66,2024-01-01
+B06,Metallic Shine 12,12,novelty,4.49,4.49,2.45,0.95,2024-01-01
+B07,Skin Tones 24,24,skin tones,3.99,3.99,2.15,0.85,2024-09-09
+B08,Big Box 64,64,assorted,7.99,8.49,4.3,2.1,2024-01-01
